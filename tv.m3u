@@ -1,0 +1,133 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="servustv" group-title="" tvg-name="",ServusTV HD 1080i
+https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_6692.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="servustv" group-title="" tvg-name="",ServusTV HD 720p
+#https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_3392.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="servustv" group-title="" tvg-name="",ServusTV HD 540p
+#https://rbmn-live.akamaized.net/hls/live/2002825/geoSTVATweb/master_1692.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="redbulltv" group-title="" tvg-name="",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/622817/BoRB-US/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="3sat" group-title="" tvg-name="",3sat
+http://zdfhls18-i.akamaihd.net/hls/live/744751/dach/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="daserste" group-title="" tvg-name="",Das Erste HD
+https://mcdn.daserste.de/daserste/de/master_3744.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="zdf" group-title="" tvg-name="",ZDF HD
+#https://zdf-hls-01.akamaized.net/hls/live/2002460/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="zdfneo" group-title="" tvg-name="",ZDFneo HD
+#https://zdf-hls-02.akamaized.net/hls/live/2002461/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="zdfinfo" group-title="" tvg-name="",ZDFinfo HD
+#https://zdfhls17-i.akamaihd.net/hls/live/744750/de/veryhigh/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="zdfinfo" group-title="" tvg-name="",Tagesschau24
+https://tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="zdfinfo" group-title="" tvg-name="",Tagesschau24 Event
+https://tagesschau-lh.akamaihd.net/i/tagesschau_2@119232/index_3776_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="zdfinfo" group-title="" tvg-name="",BR
+https://br_hdslive-f.akamaihd.net/i/brbfssued_ut_de@127380/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="orf1" group-title="" tvg-name="",ORF eins HD
+https://orf1.mdn.ors.at/out/u/orf1/qxb/manifest_6.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="orf2" group-title="" tvg-name="",ORF 2 HD
+https://orf2.mdn.ors.at/out/u/orf2/qxb/manifest_6.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="orf3" group-title="" tvg-name="",ORF III HD
+https://orf3.mdn.ors.at/out/u/orf3/qxb/manifest_6.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="orfsportplus" group-title="" tvg-name="",ORF SPORT +
+https://orfs.mdn.ors.at/out/u/orfs/qxb/manifest_6.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="brandnitetv" group-title="" tvg-name="",Brandnite TV
+https://markenfunk.tv/plive/chunks.php?tenant=brandnite&id=48c8fa3d82fe3afa989c641eca4538c0&variant=2
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="dorftv" group-title="" tvg-name="",Dorf TV
+https://stream.openplayout.org/hls/dorf.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="fs1" group-title="" tvg-name="",FS1 Salzburg
+http://stream.fs1.tv:8080/hls/webstream.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="gotv" group-title="" tvg-name="",Go TV
+https://nstream17.gotv.at:1443/live/_definst_/gotvlive_576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="ktv" group-title="" tvg-name="",K-TV
+http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="kronehit" group-title="" tvg-name="",KroneHit TV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="laendletv" group-title="" tvg-name="",Ländle TV
+https://58b42f6c8c9bf.streamlock.net:8080/live/LaendleTV/chunklist_w364023246.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="m4tv" group-title="" tvg-name="",M4 TV
+https://5a32c05065c79.streamlock.net/live/stream/chunklist_w286280757.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="melodieexpress" group-title="" tvg-name="",Melodie Express TV
+https://58b42f6c8c9bf.streamlock.net:8080/live/melodie/chunklist_w1703757698.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="melodieexpress" group-title="" tvg-name="",MTV Germany
+http://unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8?sd=10&rebase=on
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="melodieexpress" group-title="" tvg-name="",Deluxe Music
+https://1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/chunklist_b1000000_slde.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="oe24tv" group-title="" tvg-name="",oe24.TV
+http://apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="p3tv" group-title="" tvg-name="",P3tv
+http://p3-6.mov.at:1935/live/weekstream/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="r9" group-title="" tvg-name="",R9
+https://ms01.w24.at/R9/smil:liveeventR9.smil/chunklist_w870289389_b2112000_slger.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="rts" group-title="" tvg-name="",RTS-Salzburg
+http://lb.hd-livestream.de:1935/live/RTS2015/playlist.m3u8?fluxustv.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="rts" group-title="" tvg-name="",RTS-Salzburg
+#https://58b42f6c8c9bf.streamlock.net:8080/live/RTS2015/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="teins" group-title="" tvg-name="",Teins TV
+http://live1.markenfunk.com/t1/live/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="tiroltv" group-title="" tvg-name="",Tirol TV
+http://lb.hd-livestream.de:1935/live/TirolTV/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="w24" group-title="" tvg-name="",W24
+https://ms01.w24.at/W24/smil:liveevent.smil/chunklist_w1705775763_b2176000_slger.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="rbb" group-title="" tvg-name="",rbb Berlin
+#https://rbblive-lh.akamaihd.net/i/rbb_berlin@144674/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="swr" group-title="" tvg-name="",SWR
+#https://swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="weltderwunder" group-title="" tvg-name="",Welt der Wunder
+http://wowza-1.vidoo.de:1935/live/weltderwunder/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="arte" group-title="" tvg-name="",ARTE HD
+#https://artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="phoenix" group-title="" tvg-name="",Phoenix
+#https://zdfhls19-i.akamaihd.net/hls/live/744752/de/high/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="sky" group-title="" tvg-name="",Sky Sport News HD
+#http://eventhlshttps-i.akamaihd.net/hls/live/263645/ssn-hd-https/indexvideo-750.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="visitxtv" tvg-name="",VISIT-X.tv
+https://stream.visit-x.tv/vxtv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" group-title="" tvg-id="" tvg-url="" tvg-logo="nasatv" tvg-name="",NASA TV
+https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e827d3e.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" group-title="" tvg-id="" tvg-url="" tvg-logo="mtvmusic24" tvg-name="",MTV Music 24 HD
+http://unilivemtveu-lh.akamaihd.net/i/mtvmusic24_1@134926/master.m3u8
