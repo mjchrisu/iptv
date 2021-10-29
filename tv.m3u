@@ -27,16 +27,16 @@ https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/ZTZDFzw.png" group-title="" tvg-name="",Bibel TV
 https://bibeltv01.iptv-playoutcenter.de/bibeltv01/bibeltv01.stream_all/bibeltv01/bibeltv01.stream_1/chunks.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/bild.png" group-title="" tvg-name="",Bild
+#EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/rFTgusY.png" group-title="" tvg-name="",Bild
 https://bildlivehls-lh.akamaihd.net/i/bildtv247_1@427319/index_5628_av-p.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/bloomberg.png" group-title="" tvg-name="",Bloomberg
+#EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/WjVe4TD.png" group-title="" tvg-name="",Bloomberg
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/AT81EDK.png" group-title="" tvg-name="",BR
 https://brcdn.vo.llnwd.net/br/fs/bfs_sued/hls/int/master_1280p_3628.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" group-title="" tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/cbnnewsK.png" group-title="" tvg-name="",CBN News
+#EXTINF:-1 tvg-id="" tvg-country="US" tvg-language="English" group-title="" tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/fj8vkv3.png" group-title="" tvg-name="",CBN News
 https://bcliveunivsecure-lh.akamaihd.net/i/news_1@500579/index_3000_av-p.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/RLWJ1U3.jpg" group-title="" tvg-name="",Dorf TV
@@ -45,7 +45,7 @@ https://stream.openplayout.org/hls/dorftv/live_high/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/EwkJpmH.png" group-title="" tvg-name="",eo TV
 https://5856e1a25f71a.streamlock.net/easycast9-live/_definst_/mp4:livestreamhd5/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/exxpresstv.png" group-title="" tvg-name="",eXXpress TV
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/aFMX6Av.png" group-title="" tvg-name="",eXXpress TV
 https://vs-live-exxpress.sf.apa.at/exxpress-live1/exxpress.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/gzCD6Wi.jpg" group-title="" tvg-name="",FS1 Salzburg
@@ -54,7 +54,7 @@ http://stream.fs1.tv:8080/hls/webstream.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/eTPUYr2.png" group-title="" tvg-name="",hr-fernsehen
 https://hrhls.akamaized.net/hls/live/2024525/hrhls/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/hse24.png" group-title="" tvg-name="",HSE24
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/ubZkga9.png" group-title="" tvg-name="",HSE24
 https://hse24.akamaized.net/hls/live/2006663/hse24/master_900p25.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/anCuacj.png" group-title="" tvg-name="",K-TV
@@ -93,7 +93,7 @@ https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/0w7oTRl.png" group-title="" tvg-name="",RTV Oberösterreich
 http://iptv.rtv-ooe.at/stream.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/rtnews.png" group-title="" tvg-name="",RT News
+#EXTINF:-1 tvg-id="" tvg-country="AT" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/Kq5YIwj.png" group-title="" tvg-name="",RT News
 https://rt-glb.gcdn.co/live/rtnews/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-country="DE" tvg-language="German" group-title="" tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/rabYBy4.png" group-title="" tvg-name="",Schau TV
